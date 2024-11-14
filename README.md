@@ -1,235 +1,235 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-
-<a id="readme-top"></a>
-
-[<img alt="Figma for your React App" src="https://github.com/user-attachments/assets/c4a0db58-ecf2-4461-b6be-ce84749a3922">
-](https://youtu.be/RSX_3EaO5eU)
-
-<div align="center">
-<h3 align="center">Onlook</h3>
-  <p align="center">
-    The first browser-powered visual editor.
-    <br />
-    <a href="https://github.com/onlook-dev/onlook/wiki"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://youtu.be/RSX_3EaO5eU?feature=shared">View Demo</a>
-    ·
-    <a href="https://github.com/onlook-dev/onlook/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/onlook-dev/onlook/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+<div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text">
+<p dir="auto"><a id="user-content-readme-top"></a></p>
+<p dir="auto" _msthidden="1"><a href="https://youtu.be/RSX_3EaO5eU" rel="nofollow"><img alt="Figma for your React App" src="https://private-user-images.githubusercontent.com/14104075/377240008-c4a0db58-ecf2-4461-b6be-ce84749a3922.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE1NTMwNjksIm5iZiI6MTczMTU1Mjc2OSwicGF0aCI6Ii8xNDEwNDA3NS8zNzcyNDAwMDgtYzRhMGRiNTgtZWNmMi00NDYxLWI2YmUtY2U4NDc0OWEzOTIyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDAyNTI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQzMTBjMjM4YzUxMjhiODcxYWFiM2Y5YjM5YjUwYTUwM2FkNWFhYTU3MjU5ZjVlNWNjOGYzZjg2YTYzMjk0MWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Ql34zUgBodMK8Yhgj7rAy92QIifLYY-0WzilEx46YW8" secured-asset-link="" style="max-width: 100%;" _msthidden="A" _mstalt="442546" _msthash="273">
+</a></p>
+<div align="center" dir="auto">
+<div class="markdown-heading" dir="auto"><h3 align="center" tabindex="-1" class="heading-element" dir="auto" _msttexthash="9872564" _msthash="274">旁观者</h3><a id="user-content-onlook" class="anchor" aria-label="永久链接：Onlook" href="#onlook" _mstaria-label="306345" _msthash="275"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+  <p align="center" dir="auto"><font _mstmutation="1" _msttexthash="282370855" _msthash="276">第一个由浏览器提供支持的可视化编辑器。<br _mstmutation="1" _istranslated="1"> <a href="https://github.com/onlook-dev/onlook/wiki" _mstmutation="1" _istranslated="1"><strong _istranslated="1">浏览文档 »</strong></a> <br _mstmutation="1" _istranslated="1"> <br _mstmutation="1" _istranslated="1"> <a href="https://youtu.be/RSX_3EaO5eU?feature=shared" rel="nofollow" _mstmutation="1" _istranslated="1">查看演示</a> ·<a href="https://github.com/onlook-dev/onlook/issues/new?labels=bug&amp;template=bug-report---.md" _mstmutation="1" _istranslated="1">报告 Bug</a> ·<a href="https://github.com/onlook-dev/onlook/issues/new?labels=enhancement&amp;template=feature-request---.md" _mstmutation="1" _istranslated="1">请求功能</a></font>
   </p>
-  <!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-<!-- [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Apache License][license-shield]][license-url] -->
+  
 
-[![Discord][discord-shield]][discord-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Twitter][twitter-shield]][twitter-url]
 
+<p dir="auto"><a href="https://discord.gg/hERDfFZCsH" rel="nofollow"><img src="https://camo.githubusercontent.com/eb7a9586d232b66e5c1b00c8c8a5b43d9512a0079637291f3f6f3811622e57fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446973636f72642d626c61636b3f6c6f676f3d646973636f726426636f6c6f72423d353535" alt="不和" data-canonical-src="https://img.shields.io/badge/-Discord-black?logo=discord&amp;colorB=555" style="max-width: 100%;" _mstalt="93990" _msthash="277"></a>
+<a href="https://www.linkedin.com/company/onlook-dev" rel="nofollow"><img src="https://camo.githubusercontent.com/57a916e4c2864d169353415c7619e46866f3a8231ee3834add5a6109ff5eeeef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c61636b2e7376673f6c6f676f3d6c696e6b6564696e26636f6c6f72423d353535" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&amp;colorB=555" style="max-width: 100%;" _mstalt="107016" _msthash="278"></a>
+<a href="https://x.com/onlookdev" rel="nofollow"><img src="https://camo.githubusercontent.com/9e6529281499872a5363998eb49b4e9f16f76e30ff4e080135da4d6867259aab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d626c61636b3f6c6f676f3d7826636f6c6f72423d353535" alt="唽" data-canonical-src="https://img.shields.io/badge/-Twitter-black?logo=x&amp;colorB=555" style="max-width: 100%;" _mstalt="98995" _msthash="279"></a></p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#installation">Installation</a></li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-    <li><a href="#license">License</a></li>
+  <summary _msttexthash="5308706" _msthash="280">目录</summary>
+  <ol dir="auto">
+    <li><a href="#installation" _msttexthash="5773755" _msthash="281">安装</a></li>
+    <li><a href="#usage" _msttexthash="5626816" _msthash="282">用法</a></li>
+    <li><a href="#roadmap" _msttexthash="9286563" _msthash="283">路线图</a></li>
+    <li><a href="#contributing" _msttexthash="6354283" _msthash="284">贡献</a></li>
+    <li><a href="#contact" _msttexthash="6317012" _msthash="285">联系</a></li>
+    <li><a href="#acknowledgments" _msttexthash="6523322" _msthash="286">确认</a></li>
+    <li><a href="#license" _msttexthash="9675445" _msthash="287">许可证</a></li>
   </ol>
 </details>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto" _msttexthash="141345594" _msthash="288">适用于 React 应用的开源、本地优先的可视化编辑器</h1><a id="user-content-the-open-source-local-first-visual-editor-for-your-react-apps" class="anchor" aria-label="永久链接：适用于 React 应用的开源、本地优先的可视化编辑器" href="#the-open-source-local-first-visual-editor-for-your-react-apps" _mstaria-label="3335345" _msthash="289"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="1344992506" _msthash="290">与在 React + TailwindCSS 上运行的任何网站或 Web 应用程序无缝集成，并直接在浏览器 DOM 中进行实时编辑。自定义您的设计，控制您的代码库，并毫不妥协地推送更改。</p>
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video">
+    <path d="M16 3.75v8.5a.75.75 0 0 1-1.136.643L11 10.575v.675A1.75 1.75 0 0 1 9.25 13h-7.5A1.75 1.75 0 0 1 0 11.25v-6.5C0 3.784.784 3 1.75 3h7.5c.966 0 1.75.784 1.75 1.75v.675l3.864-2.318A.75.75 0 0 1 16 3.75Zm-6.5 1a.25.25 0 0 0-.25-.25h-7.5a.25.25 0 0 0-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-6.5ZM11 8.825l3.5 2.1v-5.85l-3.5 2.1Z"></path>
+</svg>
+    <span aria-label="视频描述 Onlook.Studio.Component.Demo.for.GitHub.mp4" class="m-1" _mstaria-label="2612298" _msthash="291" _msttexthash="1446913">Onlook.Studio.Component.Demo.for.GitHub.mp4</span>
+    <span class="dropdown-caret"></span>
+  </summary>
 
-# The open-source, local-first visual editor for your React Apps
+  <video src="https://private-user-images.githubusercontent.com/14104075/356909403-c9bac609-5b05-417f-b2b2-e57d650d0dd6.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE1NTMwNjksIm5iZiI6MTczMTU1Mjc2OSwicGF0aCI6Ii8xNDEwNDA3NS8zNTY5MDk0MDMtYzliYWM2MDktNWIwNS00MTdmLWIyYjItZTU3ZDY1MGQwZGQ2Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDAyNTI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBkZjcyMmY0MjY0NmZjYTFhMzViNjhmNjVjNGY1NjJhMjA1NjQ4ZWRhYmIwMmQzNDk4YTNiYTcyZjYyMjAyMjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YnvZ5k9BlMuXxucvnrqXaG1ka-DOc0p9IYCtpCpAP3I" data-canonical-src="https://private-user-images.githubusercontent.com/14104075/356909403-c9bac609-5b05-417f-b2b2-e57d650d0dd6.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE1NTMwNjksIm5iZiI6MTczMTU1Mjc2OSwicGF0aCI6Ii8xNDEwNDA3NS8zNTY5MDk0MDMtYzliYWM2MDktNWIwNS00MTdmLWIyYjItZTU3ZDY1MGQwZGQ2Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDAyNTI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBkZjcyMmY0MjY0NmZjYTFhMzViNjhmNjVjNGY1NjJhMjA1NjQ4ZWRhYmIwMmQzNDk4YTNiYTcyZjYyMjAyMjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YnvZ5k9BlMuXxucvnrqXaG1ka-DOc0p9IYCtpCpAP3I" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 
-Seamlessly integrate with any website or webapp running on React + TailwindCSS, and make live edits directly in the browser DOM. Customize your design, control your codebase, and push changes your changes without compromise.
+  </video>
+</details>
 
-https://github.com/user-attachments/assets/c9bac609-5b05-417f-b2b2-e57d650d0dd6
+<p dir="auto" _msthidden="3"><animated-image data-catalyst="" _msthidden="3"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/14104075/362491970-1f317ae1-6453-4a00-8801-f005ccc7efdb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE1NTMwNjksIm5iZiI6MTczMTU1Mjc2OSwicGF0aCI6Ii8xNDEwNDA3NS8zNjI0OTE5NzAtMWYzMTdhZTEtNjQ1My00YTAwLTg4MDEtZjAwNWNjYzdlZmRiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDAyNTI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUyNmE5YzAxNjk0YzRiYjU3ODBhMDVjN2M5N2YyYjdkOGIyODY2MTIyYTc4Mzg0OTFlYzMzM2ZiOWY1MjBlODMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.DdAegpnM3mI9Ry6659C16My1glDvI8COS-usty3kM-w" data-target="animated-image.originalLink" _msthidden="1"><img src="https://private-user-images.githubusercontent.com/14104075/362491970-1f317ae1-6453-4a00-8801-f005ccc7efdb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE1NTMwNjksIm5iZiI6MTczMTU1Mjc2OSwicGF0aCI6Ii8xNDEwNDA3NS8zNjI0OTE5NzAtMWYzMTdhZTEtNjQ1My00YTAwLTg4MDEtZjAwNWNjYzdlZmRiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDAyNTI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUyNmE5YzAxNjk0YzRiYjU3ODBhMDVjN2M5N2YyYjdkOGIyODY2MTIyYTc4Mzg0OTFlYzMzM2ZiOWY1MjBlODMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.DdAegpnM3mI9Ry6659C16My1glDvI8COS-usty3kM-w" alt="出口-1724891449817" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" _mstalt="267852" _msthash="292" _mstvisible="0"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" _msthidden="2" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://private-user-images.githubusercontent.com/14104075/362491970-1f317ae1-6453-4a00-8801-f005ccc7efdb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE1NTMwNjksIm5iZiI6MTczMTU1Mjc2OSwicGF0aCI6Ii8xNDEwNDA3NS8zNjI0OTE5NzAtMWYzMTdhZTEtNjQ1My00YTAwLTg4MDEtZjAwNWNjYzdlZmRiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDAyNTI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUyNmE5YzAxNjk0YzRiYjU3ODBhMDVjN2M5N2YyYjdkOGIyODY2MTIyYTc4Mzg0OTFlYzMzM2ZiOWY1MjBlODMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.DdAegpnM3mI9Ry6659C16My1glDvI8COS-usty3kM-w" target="_blank" _msthidden="1">
+          
+        <span data-target="animated-image.imageContainer" _msthidden="1">
+            <img data-target="animated-image.replacedImage" alt="Export-1724891449817" class="AnimatedImagePlayer-animatedImage" src="https://private-user-images.githubusercontent.com/14104075/362491970-1f317ae1-6453-4a00-8801-f005ccc7efdb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE1NTMwNjksIm5iZiI6MTczMTU1Mjc2OSwicGF0aCI6Ii8xNDEwNDA3NS8zNjI0OTE5NzAtMWYzMTdhZTEtNjQ1My00YTAwLTg4MDEtZjAwNWNjYzdlZmRiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDAyNTI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUyNmE5YzAxNjk0YzRiYjU3ODBhMDVjN2M5N2YyYjdkOGIyODY2MTIyYTc4Mzg0OTFlYzMzM2ZiOWY1MjBlODMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.DdAegpnM3mI9Ry6659C16My1glDvI8COS-usty3kM-w" _msthidden="A" _mstalt="267852" _msthash="293" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="807" height="508"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Export-1724891449817" _msthidden="A" _mstaria-label="384995" _msthash="476" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" _msthidden="1" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Export-1724891449817" _msthidden="A" _mstaria-label="384995" _msthash="475">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="Open Export-1724891449817 in new window" class="AnimatedImagePlayer-button" href="https://private-user-images.githubusercontent.com/14104075/362491970-1f317ae1-6453-4a00-8801-f005ccc7efdb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE1NTMwNjksIm5iZiI6MTczMTU1Mjc2OSwicGF0aCI6Ii8xNDEwNDA3NS8zNjI0OTE5NzAtMWYzMTdhZTEtNjQ1My00YTAwLTg4MDEtZjAwNWNjYzdlZmRiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDAyNTI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUyNmE5YzAxNjk0YzRiYjU3ODBhMDVjN2M5N2YyYjdkOGIyODY2MTIyYTc4Mzg0OTFlYzMzM2ZiOWY1MjBlODMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.DdAegpnM3mI9Ry6659C16My1glDvI8COS-usty3kM-w" target="_blank" _msthidden="A" _mstaria-label="950794" _msthash="294">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="11150503" _msthash="295">构建方式</h3><a id="user-content-built-with" class="anchor" aria-label="永久链接：Built With" href="#built-with" _mstaria-label="400621" _msthash="296"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://reactjs.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/8ecf64c6d80398d3ccc24b7b519fc4a12338b1d04a920469c82b52bb6c019fad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f6c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" alt="反应" data-canonical-src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&amp;logoColor=%2361DAFB" style="max-width: 100%;" _mstalt="58773" _msthash="297"></a></li>
+<li><a href="https://www.electronjs.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/87bc7dd648f0612624a32043879e92ed614f6c68c0c59f935a11066071f9c235/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456c656374726f6e2d3139313937303f6c6f676f3d456c656374726f6e266c6f676f436f6c6f723d7768697465" alt="电子" data-canonical-src="https://img.shields.io/badge/Electron-191970?logo=Electron&amp;logoColor=white" style="max-width: 100%;" _mstalt="115349" _msthash="298"></a></li>
+<li><a href="https://tailwindcss.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/b435bd99f814e0329b35cd70c9140c2bbaf00df96ac5bcdc91c9c6fbd1766b23/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d2532333338423241432e7376673f6c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465" alt="顺风" data-canonical-src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&amp;logoColor=white" style="max-width: 100%;" _mstalt="114244" _msthash="299"></a></li>
+<li><a href="https://vitejs.dev/" rel="nofollow"><img src="https://camo.githubusercontent.com/161124b7f44a3572ef26947bbf0184e0b34be3c45b30de132034838cdeedf4b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f766974652d2532333634364346462e7376673f6c6f676f3d76697465266c6f676f436f6c6f723d7768697465" alt="维特" data-canonical-src="https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&amp;logoColor=white" style="max-width: 100%;" _mstalt="45448" _msthash="300"></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="18998941" _msthash="301">保持最新状态</h2><a id="user-content-stay-up-to-date" class="anchor" aria-label="永久链接：保持最新状态" href="#stay-up-to-date" _mstaria-label="566046" _msthash="302"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="1826389071" _msthash="303">Onlook 于 2024 年 7 月 8 日正式推出了我们的第一个 Onlook 版本，从那时起我们已经出货了大量。观看此存储库的版本以获取未来更新的通知，您可以在 <a href="https://www.linkedin.com/company/onlook-dev" rel="nofollow" _istranslated="1">LinkedIn</a> 或 <a href="https://onlook.substack.com/" rel="nofollow" _istranslated="1">Substack</a> 上关注我们，我们在那里撰写每周时事通讯。</p>
 
-![Export-1724891449817](https://github.com/user-attachments/assets/1f317ae1-6453-4a00-8801-f005ccc7efdb)
-
-### Built With
-
--   [![React][React.js]][React-url]
--   [![Electron][Electron.js]][Electron-url]
--   [![Tailwind][TailwindCSS]][Tailwind-url]
--   [![Vite][Vite.js]][Vite-url]
-
-## Stay up-to-date
-
-Onlook officially launched our first version of Onlook on July 08, 2024 and we've shipped a ton since then. Watch releases of this repository to be notified of future updates, and you can follow along with us on [LinkedIn](https://www.linkedin.com/company/onlook-dev) or [Substack](https://onlook.substack.com/) where we write a weekly newsletter.
-
-<!-- ![Starproject](https://github.com/user-attachments/assets/07742b21-dd98-4be3-b6a6-13d8132af398) -->
-
-## Getting Started
-
-![image](https://github.com/user-attachments/assets/18b6ad5a-1d5a-4396-af8c-8b85936acf39)
-
-### Installation
-
-#### Option 1: Download from website
-
-Visit [onlook.dev](https://onlook.dev/) to download the pre-built app.
-
-
-#### Optione 2: Run locally
-
-> [!IMPORTANT]   
-We require the [Bun.sh](https://bun/) runtime. You can [download it here](https://bun.sh/docs/installation) or run `npm install -g bun`.
-
-To run locally with bun:
-1. Clone the repo
-    ```sh
-    git clone https://github.com/onlook-dev/onlook.git
-    ```
-2. Install NPM packages
-    ```sh
-    bun install
-    ```
-3. Run the project
-    ```js
-    bun run dev
-    ```
-    If you plan on contributing to Onlook, make sure you are not running the Desktop app and the repo at the same time.
-
-### Usage
-
-There are many ways to try out Onlook! Try one of the options below:
-
-#### Option 1: Use your own React project
-
-To try with your own React + TailwindCSS project, follow the following steps:
-
-1. Run this command on your project's root folder:
-
-```
-npx onlook setup
-```
-
-2. Run your project
-3. Open Onlook to where your project is running (i.e. `http://localhost:3000`).
-
-See the [setup wiki](https://github.com/onlook-dev/onlook/wiki/How-to-set-up-my-project%3F) for more information.
-
-#### Option 2: Start a new project
-
-You can start from scratch using Onlook:
-
-1. Run this command where you'd like to create the project folder
-
-```
-npx onlook create my-onlook-project
-```
-
-2. Run the project
-
-```
-cd my-onlook-project && npm run dev
-```
-
-3. Open Onlook at `http://localhost:3000`
-
-See the the [CLI package](cli) for more information.
-
-#### Option 3: Try a demo project
-
-We have a few demo projects included in the [demos](demos) folder. These are standard React apps with Onlook configured.
-
-To run, follow the following steps:
-
-1. Run the demo project
-    ```sh
-    cd demos/next && npm install && npm run dev
-    ```
-2. Open Onlook at `http://localhost:3000`
-
-## Roadmap
-
-![image](https://github.com/user-attachments/assets/f64b51df-03be-44d1-ae35-82e6dc960d06)
-
-See how we're tracking towards major [milestones](<[url](https://github.com/onlook-dev/onlook/milestones)>), and read the [wiki](https://github.com/onlook-dev/onlook/wiki/Roadmap) for details on each version of Onlook. Here's a rough overview of some of the major features we're looking at:
-
--   [x] Browser
--   [x] Editor
--   [x] Write-to-code
--   [ ] Components
--   [ ] Variables
-
-Also check the [open issues](https://github.com/onlook-dev/onlook/issues) for a full list of proposed features (and known issues).
-
-## Contributing
-
-![image](https://github.com/user-attachments/assets/ecc94303-df23-46ae-87dc-66b040396e0b)
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also [open issues](https://github.com/onlook-dev/onlook/issues).
-
-See the [CONTRIBUTING.md](CONTRIBUTING.md) for instructions and code of conduct.
-
-#### Contributors
-
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="4603768" _msthash="304">开始</h2><a id="user-content-getting-started" class="anchor" aria-label="永久链接： 开始使用" href="#getting-started" _mstaria-label="591461" _msthash="305"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msthidden="1"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/14104075/362515730-18b6ad5a-1d5a-4396-af8c-8b85936acf39.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE1NTMwNjksIm5iZiI6MTczMTU1Mjc2OSwicGF0aCI6Ii8xNDEwNDA3NS8zNjI1MTU3MzAtMThiNmFkNWEtMWQ1YS00Mzk2LWFmOGMtOGI4NTkzNmFjZjM5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDAyNTI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAyZDZjMjk5MTk3MGQ2ZDVjMDIyNTY3YTIxNzM2MjcyNWQyNjQ1ZjZmMzU0NDBhNjJhZGQ2NmMwOGEwMWRjOWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.WfL3MhaJOzWG_nQRy27o4FrNKtbCRJ5FmpHN13SNnA4"><img src="https://private-user-images.githubusercontent.com/14104075/362515730-18b6ad5a-1d5a-4396-af8c-8b85936acf39.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE1NTMwNjksIm5iZiI6MTczMTU1Mjc2OSwicGF0aCI6Ii8xNDEwNDA3NS8zNjI1MTU3MzAtMThiNmFkNWEtMWQ1YS00Mzk2LWFmOGMtOGI4NTkzNmFjZjM5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDAyNTI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAyZDZjMjk5MTk3MGQ2ZDVjMDIyNTY3YTIxNzM2MjcyNWQyNjQ1ZjZmMzU0NDBhNjJhZGQ2NmMwOGEwMWRjOWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.WfL3MhaJOzWG_nQRy27o4FrNKtbCRJ5FmpHN13SNnA4" alt="image" style="max-width: 100%;" _msthidden="A" _mstalt="60073" _msthash="306"></a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="5773755" _msthash="307">安装</h3><a id="user-content-installation" class="anchor" aria-label="永久链接：安装" href="#installation" _mstaria-label="519259" _msthash="308"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="39993772" _msthash="309">选项 1：从网站下载</h4><a id="user-content-option-1-download-from-website" class="anchor" aria-label="永久链接：选项 1：从网站下载" href="#option-1-download-from-website" _mstaria-label="1235000" _msthash="310"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="99301774" _msthash="311">访问 <a href="https://onlook.dev/" rel="nofollow" _istranslated="1">onlook.dev</a> 下载预构建的应用程序。</p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="40499615" _msthash="312">Optione 2：本地运行</h4><a id="user-content-optione-2-run-locally" class="anchor" aria-label="永久链接： Optione 2： 本地运行" href="#optione-2-run-locally" _mstaria-label="794937" _msthash="313"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-alert markdown-alert-important" dir="auto"><p class="markdown-alert-title" dir="auto"><svg class="octicon octicon-report mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0 1 14.25 13H8.06l-2.573 2.573A1.458 1.458 0 0 1 3 14.543V13H1.75A1.75 1.75 0 0 1 0 11.25Zm1.75-.25a.25.25 0 0 0-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25Zm7 2.25v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 9a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg><font _mstmutation="1" _msttexthash="7057479" _msthash="314">重要</font></p><p dir="auto"><font _mstmutation="1" _msttexthash="145447172" _msthash="315">我们需要 <a href="https://bun/" rel="nofollow" _mstmutation="1" _istranslated="1">Bun.sh</a> 运行时。您可以<a href="https://bun.sh/docs/installation" rel="nofollow" _mstmutation="1" _istranslated="1">在此处下载或</a>运行 。</font><code>npm install -g bun</code></p>
+</div>
+<p dir="auto" _msttexthash="52456066" _msthash="316">要使用 bun 在本地运行：</p>
+<ol dir="auto">
+<li><font _mstmutation="1" _msttexthash="14783678" _msthash="317">克隆存储库</font><div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>git clone https://github.com/onlook-dev/onlook.git</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git clone https://github.com/onlook-dev/onlook.git" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+</li>
+<li><font _mstmutation="1" _msttexthash="18816668" _msthash="318">安装 NPM 软件包</font><div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>bun install</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="bun install" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+</li>
+<li><font _mstmutation="1" _msttexthash="354441711" _msthash="319">运行项目 如果您计划为 Onlook 做出贡献，请确保您没有同时运行 Desktop 应用程序和存储库。</font><div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-s1">bun</span> <span class="pl-s1">run</span> <span class="pl-s1">dev</span></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="bun run dev" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div></li>
+</ol>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="5626816" _msthash="320">用法</h3><a id="user-content-usage" class="anchor" aria-label="永久链接：用法" href="#usage" _mstaria-label="270712" _msthash="321"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="167644945" _msthash="322">有很多方法可以试用 Onlook！请尝试以下选项之一：</p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="64376559" _msthash="323">选项 1：使用你自己的 React 项目</h4><a id="user-content-option-1-use-your-own-react-project" class="anchor" aria-label="永久链接：选项 1：使用你自己的 React 项目" href="#option-1-use-your-own-react-project" _mstaria-label="1428960" _msthash="324"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="235796834" _msthash="325">要尝试使用你自己的 React + TailwindCSS 项目，请执行以下步骤：</p>
+<ol dir="auto">
+<li _msttexthash="87779458" _msthash="326">在项目的根文件夹上运行以下命令：</li>
+</ol>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>npx onlook setup
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="npx onlook setup" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<ol start="2" dir="auto">
+<li _msttexthash="24149567" _msthash="327">运行您的项目</li>
+<li><font _mstmutation="1" _msttexthash="115417653" _msthash="328">打开 Onlook 到项目运行的位置（即 ）。</font><code>http://localhost:3000</code></li>
+</ol>
+<p dir="auto" _msttexthash="66440504" _msthash="329">有关更多信息，请参阅<a href="https://github.com/onlook-dev/onlook/wiki/How-to-set-up-my-project%3F" _istranslated="1">设置 Wiki</a>。</p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="39733642" _msthash="330">选项 2：启动新项目</h4><a id="user-content-option-2-start-a-new-project" class="anchor" aria-label="永久链接：选项 2：启动新项目" href="#option-2-start-a-new-project" _mstaria-label="1066533" _msthash="331"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="55540212" _msthash="332">您可以使用 Onlook 从头开始：</p>
+<ol dir="auto">
+<li _msttexthash="90494131" _msthash="333">在要创建项目文件夹的位置运行此命令</li>
+</ol>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>npx onlook create my-onlook-project
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="npx onlook create my-onlook-project" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<ol start="2" dir="auto">
+<li _msttexthash="15503865" _msthash="334">运行项目</li>
+</ol>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>cd my-onlook-project &amp;&amp; npm run dev
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="cd my-onlook-project &amp;&amp; npm run dev" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<ol start="3" dir="auto">
+<li><font _mstmutation="1" _msttexthash="15658448" _msthash="335">打开 Onlook 位置</font><code>http://localhost:3000</code></li>
+</ol>
+<p dir="auto" _msttexthash="71987214" _msthash="336">有关更多信息，请参阅 <a href="/onlook-dev/onlook/blob/main/cli" _istranslated="1">CLI 软件包</a>。</p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="49265112" _msthash="337">选项 3：尝试演示项目</h4><a id="user-content-option-3-try-a-demo-project" class="anchor" aria-label="永久链接：选项 3：尝试演示项目" href="#option-3-try-a-demo-project" _mstaria-label="1007084" _msthash="338"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="295570080" _msthash="339">我们在 <a href="/onlook-dev/onlook/blob/main/demos" _istranslated="1">demos</a> 文件夹中包含了一些演示项目。这些是配置了 Onlook 的标准 React 应用程序。</p>
+<p dir="auto" _msttexthash="71873711" _msthash="340">要运行，请执行以下步骤：</p>
+<ol dir="auto">
+<li><font _mstmutation="1" _msttexthash="19174506" _msthash="341">运行 demo 项目</font><div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-c1">cd</span> demos/next <span class="pl-k">&amp;&amp;</span> npm install <span class="pl-k">&amp;&amp;</span> npm run dev</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="cd demos/next &amp;&amp; npm install &amp;&amp; npm run dev" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+</li>
+<li><font _mstmutation="1" _msttexthash="15658448" _msthash="342">打开 Onlook 位置</font><code>http://localhost:3000</code></li>
+</ol>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="9286563" _msthash="343">路线图</h2><a id="user-content-roadmap" class="anchor" aria-label="永久链接： 路线图" href="#roadmap" _mstaria-label="331747" _msthash="344"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msthidden="1"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/14104075/362515830-f64b51df-03be-44d1-ae35-82e6dc960d06.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE1NTMwNjksIm5iZiI6MTczMTU1Mjc2OSwicGF0aCI6Ii8xNDEwNDA3NS8zNjI1MTU4MzAtZjY0YjUxZGYtMDNiZS00NGQxLWFlMzUtODJlNmRjOTYwZDA2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDAyNTI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFhY2NmOGY4YzczYzUxM2FkZDNkNmZlNzE1NWI4NWMxMmUyZDcwNDc1YTRkNzc0N2E5NGYyNjI5ZjhlNzEwN2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Bc45LNReGkydhEOzRgDk0Ytx_cHoa2uTqKfz92Fzd9w"><img src="https://private-user-images.githubusercontent.com/14104075/362515830-f64b51df-03be-44d1-ae35-82e6dc960d06.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE1NTMwNjksIm5iZiI6MTczMTU1Mjc2OSwicGF0aCI6Ii8xNDEwNDA3NS8zNjI1MTU4MzAtZjY0YjUxZGYtMDNiZS00NGQxLWFlMzUtODJlNmRjOTYwZDA2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDAyNTI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFhY2NmOGY4YzczYzUxM2FkZDNkNmZlNzE1NWI4NWMxMmUyZDcwNDc1YTRkNzc0N2E5NGYyNjI5ZjhlNzEwN2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Bc45LNReGkydhEOzRgDk0Ytx_cHoa2uTqKfz92Fzd9w" alt="image" style="max-width: 100%;" _msthidden="A" _mstalt="60073" _msthash="345"></a></p>
+<p dir="auto" _msttexthash="797638881" _msthash="346">了解我们如何跟踪主要里程碑，并阅读 <a href="https://github.com/onlook-dev/onlook/wiki/Roadmap" _istranslated="1">wiki</a> 以了解有关 Onlook 每个版本的详细信息。以下是我们正在研究的一些主要功能的粗略概述：</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""><font _mstmutation="1" _msttexthash="8802781" _msthash="347">浏览器</font></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""><font _mstmutation="1" _msttexthash="9370946" _msthash="348">编辑 器</font></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""><font _mstmutation="1" _msttexthash="10424492" _msthash="349">写入代码</font></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"><font _mstmutation="1" _msttexthash="5055388" _msthash="350">组件</font></li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"><font _mstmutation="1" _msttexthash="5835232" _msthash="351">变量</font></li>
+</ul>
+<p dir="auto" _msttexthash="306351643" _msthash="352">此外，请查看 <a href="https://github.com/onlook-dev/onlook/issues" _istranslated="1">未解决的问题</a> ，了解建议功能（和已知问题）的完整列表。</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="6354283" _msthash="353">贡献</h2><a id="user-content-contributing" class="anchor" aria-label="永久链接： 贡献" href="#contributing" _mstaria-label="521066" _msthash="354"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msthidden="1"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/14104075/362515889-ecc94303-df23-46ae-87dc-66b040396e0b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE1NTMwNjksIm5iZiI6MTczMTU1Mjc2OSwicGF0aCI6Ii8xNDEwNDA3NS8zNjI1MTU4ODktZWNjOTQzMDMtZGYyMy00NmFlLTg3ZGMtNjZiMDQwMzk2ZTBiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDAyNTI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRlNGE5YjY1YTE1MThiZTQ0MWU2Y2U4NjBmOTQxY2JmNWEzNmU2NzgxYTI0OTdiNTQwNDQwMmQxMDNmNzFkZjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6-voEKSzEgEDOB90wG7geRUhTB9cQDOn0y_O5OHgwCE"><img src="https://private-user-images.githubusercontent.com/14104075/362515889-ecc94303-df23-46ae-87dc-66b040396e0b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE1NTMwNjksIm5iZiI6MTczMTU1Mjc2OSwicGF0aCI6Ii8xNDEwNDA3NS8zNjI1MTU4ODktZWNjOTQzMDMtZGYyMy00NmFlLTg3ZGMtNjZiMDQwMzk2ZTBiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDAyNTI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRlNGE5YjY1YTE1MThiZTQ0MWU2Y2U4NjBmOTQxY2JmNWEzNmU2NzgxYTI0OTdiNTQwNDQwMmQxMDNmNzFkZjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6-voEKSzEgEDOB90wG7geRUhTB9cQDOn0y_O5OHgwCE" alt="image" style="max-width: 100%;" _msthidden="A" _mstalt="60073" _msthash="355"></a></p>
+<p dir="auto" _msttexthash="337384801" _msthash="356">如果您有可以改善此问题的建议，请分叉存储库并创建拉取请求。您还可以<a href="https://github.com/onlook-dev/onlook/issues" _istranslated="1">打开议题</a>。</p>
+<p dir="auto" _msttexthash="103791181" _msthash="357">请参阅 <a href="/onlook-dev/onlook/blob/main/CONTRIBUTING.md" _istranslated="1">CONTRIBUTING.md</a> 了解说明和行为准则。</p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto" _msttexthash="6354283" _msthash="358">贡献</h4><a id="user-content-contributors" class="anchor" aria-label="永久链接： 贡献者" href="#contributors" _mstaria-label="528866" _msthash="359"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <a href="https://github.com/onlook-dev/onlook/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=onlook-dev/onlook&t=0" />
+  <img src="https://camo.githubusercontent.com/38e066a2bfd9bf409d0bf532df02597c1f4106f02ca306e5d7883b7a680dfbdc/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d6f6e6c6f6f6b2d6465762f6f6e6c6f6f6b26743d30" data-canonical-src="https://contrib.rocks/image?repo=onlook-dev/onlook&amp;t=0" style="max-width: 100%;">
 </a>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="6317012" _msthash="360">联系</h2><a id="user-content-contact" class="anchor" aria-label="永久链接： 联系我们" href="#contact" _mstaria-label="334295" _msthash="361"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msthidden="1"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/14104075/362515982-60684b68-1925-4550-8efd-51a1509fc953.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE1NTMwNjksIm5iZiI6MTczMTU1Mjc2OSwicGF0aCI6Ii8xNDEwNDA3NS8zNjI1MTU5ODItNjA2ODRiNjgtMTkyNS00NTUwLThlZmQtNTFhMTUwOWZjOTUzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDAyNTI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM1YmYyNzg5ZGYxN2FjMDQyYjZlZWM3ODk3NGRmOGZjMDc2ZTVkZWQxY2U1NGJjZThkYTdmMDU5OGVmNjczODgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.JualCNnSv6t-X1XQa1N3rXXmrLUt3nevErGY5XA2eMg"><img src="https://private-user-images.githubusercontent.com/14104075/362515982-60684b68-1925-4550-8efd-51a1509fc953.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE1NTMwNjksIm5iZiI6MTczMTU1Mjc2OSwicGF0aCI6Ii8xNDEwNDA3NS8zNjI1MTU5ODItNjA2ODRiNjgtMTkyNS00NTUwLThlZmQtNTFhMTUwOWZjOTUzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE0VDAyNTI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM1YmYyNzg5ZGYxN2FjMDQyYjZlZWM3ODk3NGRmOGZjMDc2ZTVkZWQxY2U1NGJjZThkYTdmMDU5OGVmNjczODgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.JualCNnSv6t-X1XQa1N3rXXmrLUt3nevErGY5XA2eMg" alt="image" style="max-width: 100%;" _msthidden="A" _mstalt="60073" _msthash="362"></a></p>
+<ul dir="auto">
+<li _msttexthash="54921490" _msthash="363">团队： <a href="https://twitter.com/onlookdev" rel="nofollow" _istranslated="1">Twitter</a> - <a href="https://www.linkedin.com/company/onlook-dev/" rel="nofollow" _istranslated="1">LinkedIn</a> - <a href="mailto:contact@onlook.dev" _istranslated="1">电子邮件</a></li>
+<li _msttexthash="23984727" _msthash="364">项目名称：<a href="https://github.com/onlook-dev/onlook" _istranslated="1">https://github.com/onlook-dev/onlook</a></li>
+<li _msttexthash="14294670" _msthash="365">网站： <a href="https://onlook.dev" rel="nofollow" _istranslated="1">https://onlook.dev</a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="6523322" _msthash="366">确认</h2><a id="user-content-acknowledgments" class="anchor" aria-label="永久链接：致谢" href="#acknowledgments" _mstaria-label="642798" _msthash="367"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="50770694" _msthash="368">我们的灵感来源项目：</p>
+<ul dir="auto">
+<li><a href="https://github.com/GoogleChromeLabs/ProjectVisBug" _msttexthash="77740" _msthash="369">Visbug</a></li>
+<li><a href="https://github.com/responsively-org/responsively-app" _msttexthash="7340762" _msthash="370">响应式</a></li>
+<li><a href="https://github.com/supabase/supabase" _msttexthash="112398" _msthash="371">Supabase</a></li>
+<li><a href="https://github.com/shadcn-ui/ui" _msttexthash="5096182" _msthash="372">沙德CN</a></li>
+<li><a href="https://github.com/hymhub/css-to-tailwind" _msttexthash="5042622" _msthash="373">hymhub/css 到 tailwind</a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="9675445" _msthash="374">许可证</h2><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license" _mstaria-label="331903" _msthash="375"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="166034700" _msthash="376">在 Apache 2.0 许可证下分发。有关更多信息<a href="/onlook-dev/onlook/blob/main/LICENSE.md" _istranslated="1">，请参阅 LICENSE.md</a>。</p>
 
-## Contact
-
-![image](https://github.com/user-attachments/assets/60684b68-1925-4550-8efd-51a1509fc953)
-
--   Team: [Twitter](https://twitter.com/onlookdev) - [LinkedIn](https://www.linkedin.com/company/onlook-dev/) - [Email](mailto:contact@onlook.dev)
--   Project: [https://github.com/onlook-dev/onlook](https://github.com/onlook-dev/onlook)
--   Website: [https://onlook.dev](https://onlook.dev)
-
-## Acknowledgments
-
-Projects we're inspired by:
-
--   [Visbug](https://github.com/GoogleChromeLabs/ProjectVisBug)
--   [Responsively](https://github.com/responsively-org/responsively-app)
--   [Supabase](https://github.com/supabase/supabase)
--   [ShadCN](https://github.com/shadcn-ui/ui)
--   [hymhub/css-to-tailwind](https://github.com/hymhub/css-to-tailwind)
-
-## License
-
-Distributed under the Apache 2.0 License. See [LICENSE.md](LICENSE.md) for more information.
-
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/onlook-dev/studio.svg?style=for-the-badge
-[contributors-url]: https://github.com/onlook-dev/onlook/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/onlook-dev/studio.svg?style=for-the-badge
-[forks-url]: https://github.com/onlook-dev/onlook/network/members
-[stars-shield]: https://img.shields.io/github/stars/onlook-dev/studio.svg?style=for-the-badge
-[stars-url]: https://github.com/onlook-dev/onlook/stargazers
-[issues-shield]: https://img.shields.io/github/issues/onlook-dev/studio.svg?style=for-the-badge
-[issues-url]: https://github.com/onlook-dev/onlook/issues
-[license-shield]: https://img.shields.io/github/license/onlook-dev/studio.svg?style=for-the-badge
-[license-url]: https://github.com/onlook-dev/onlook/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/company/onlook-dev
-[twitter-shield]: https://img.shields.io/badge/-Twitter-black?logo=x&colorB=555
-[twitter-url]: https://x.com/onlookdev
-[discord-shield]: https://img.shields.io/badge/-Discord-black?logo=discord&colorB=555
-[discord-url]: https://discord.gg/hERDfFZCsH
-[React.js]: https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB
-[React-url]: https://reactjs.org/
-[TailwindCSS]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white
-[Tailwind-url]: https://tailwindcss.com/
-[Electron.js]: https://img.shields.io/badge/Electron-191970?logo=Electron&logoColor=white
-[Electron-url]: https://www.electronjs.org/
-[Vite.js]: https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white
-[Vite-url]: https://vitejs.dev/
-[product-screenshot]: assets/brand.png
+</article></div>
